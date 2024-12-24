@@ -53,8 +53,8 @@ Urban-Read is a web application designed to provide users with a seamless platfo
 
 ## 📫 Connect With Me
 
-- **GitHub**: [github.com/anshimishra25](https://github.com/anshimishra25)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anshi-mishra-65b468288) 
+- **GitHub**: [Profile ](https://github.com/anshimishra25)
+- **LinkedIn**: [Profile ](https://www.linkedin.com/in/anshi-mishra-65b468288) 
 
 ---
 
